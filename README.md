@@ -7,7 +7,7 @@ Driving distance and time from city to city using google maps. Keywords: sas sql
     "Most websites and applications may use the standard Google Maps JavaScript API free of charge. 
     A project is restricted to the complimentary per-day-limit of 25,000 map loads, unless you enable billing on the project." 
 
-    You do not need a Google API for this.
+    You do not need a Google API for this but you can add an api key.
 
     github
     https://github.com/rogerjdeangelis/utl_driving_distance_from_city_to_city_using_google_maps
