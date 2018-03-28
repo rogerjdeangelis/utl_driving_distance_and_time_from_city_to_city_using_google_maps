@@ -1,6 +1,11 @@
 Driving distance from city to city using google maps
 
-You do not need a Google API for this.
+https://developers.google.com/maps/documentation/javascript/usage
+
+Most websites and applications may use the standard Google Maps JavaScript API free of charge. 
+A project is restricted to the complimentary per-day-limit of 25,000 map loads, unless you enable billing on the project. 
+
+You do not need a Google API for this but you can add one.
 
 github
 
